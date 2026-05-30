@@ -7,7 +7,7 @@ Software Developer Intern at IBM with strong interests in application security, 
 - Learning GO and large-scale distributed systems.
 - Authorization logic and object ownership analysis
 
-## Independent Projects
+### Independent Projects
 Founder of **VardrSec**, an independent security research initiative centered on:
 - API authorization testing (BOLA / BOPLA) using Burp Suite
 - Authentication enforcement analysis and research
